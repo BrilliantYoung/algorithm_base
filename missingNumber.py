@@ -19,6 +19,7 @@ def misisngNumber(nums):
 if __name__=='__main__':
 	# nums=[3,0,1]
 	# nums=[0]
-	nums=[1]
+	# nums=[1]
+	nums=[9,3,5,2,1,0,6,7,4]
 	ans = misisngNumber(nums)
 	print(ans)
